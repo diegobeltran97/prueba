@@ -1,0 +1,26 @@
+commit dcaa2969e71caf6eaa5b0ed7d1ba3be2c01e9add 
+Author: Diego sastoque <diegoelcairo@gmai.com>
+Date:   Tue Jul 12 23:16:32 2016 -0500
+
+    se quito un span 
+
+
+commit cb37e72c4004ee9506bcde5ea82183ee19ba9d2c 
+Author: Diego sastoque <diegoelcairo@gmai.com>
+Date:   Tue Jul 12 23:06:33 2016 -0500
+
+    boton de navegacion
+
+
+commit 46f317f0448d91c143d8b582ca5c21280edf8333 
+Author: Diego sastoque <diegoelcairo@gmai.com>
+Date:   Tue Jul 12 22:04:23 2016 -0500
+
+    se cambio de fondo
+
+
+commit 798caa6f0ee87667af09cb4c747da553c231f8f5 
+Author: Diego sastoque <diegoelcairo@gmai.com>
+Date:   Tue Jul 12 21:57:53 2016 -0500
+
+    iniciar

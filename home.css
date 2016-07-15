@@ -116,3 +116,24 @@ p
   text-align: center;
 
 }
+.skill-lockup {
+    max-width: 540px;
+    margin: 50px auto;
+    color: black;
+  }
+  .skill-icons
+  {
+    font-size: 0px;
+    margin-bottom: 10px;
+  }
+
+  .skill-icons span {
+
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    background-color: #c99065;
+    margin-right: 8px;
+    border-radius: 50%;
+  }
+  
